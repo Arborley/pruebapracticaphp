@@ -1,0 +1,37 @@
+.border{ 
+    border-style:solid;
+    border-color: chocolate;
+    padding: 1%;
+    margin-top: 10%;
+    color: rgb(133, 192, 194);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+div.row {   
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+body{    
+    background-image: url(../imagen/Tienda_Informática3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+tbody {
+    background-color: beige;
+}
+
+thead{
+    background-color: beige;
+}
+
+h2{
+    text-align: center;
+    color: brown;
+}
